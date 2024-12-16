@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.history-item-cont {
+  height: 120px;
+  width: 300px;
+  background-color: #7c3aed;
+  border: 2px solid #7c3aed;
+  border-radius: 15px;
+  padding: 12px;
+}
+.delete-btn {
+  border: none;
+  border-color: transparent;
+}
+.del-img {
+  height: 25px;
+  width: 25px;
+}
